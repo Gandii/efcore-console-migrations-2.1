@@ -1,7 +1,8 @@
-#h2 Quick'n Dirty template for Ef Core migrations throw console app and tooling.
+Quick'n Dirty template for Ef Core migrations throw console app and tooling.
+
 quick quide/template for making a Ef core code first with migrations console app that can be used to have the context in seperate project from your other core app and manage migrations through it.
 
-#h3 Pre Req.
+Pre Req.
 Make sure you have a sqlserver instance available.
 Or change the code to use another ef provider.
 
